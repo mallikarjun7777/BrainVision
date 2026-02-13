@@ -1,0 +1,17 @@
+# Model weights
+*.pt
+*.pth
+
+# Training outputs
+runs/
+
+# Dataset
+Tumor-Detection-8/
+
+# Virtual environment
+myenv/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
