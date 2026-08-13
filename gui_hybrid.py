@@ -114,7 +114,7 @@ class HybridTumorApp(tk.Tk):
         # Professional styling
         self.configure(bg='#f0f4f8')
         style = ttk.Style()
-        style.theme_use('clam')
+        
         
         # Variables
         self.model_path_var = tk.StringVar(value=self._default_model_path())
